@@ -2,6 +2,10 @@
 
 **Prove you're a trustworthy actor — without revealing who you are.**
 
+### 📱 [⬇ Download the Android APK](https://github.com/Jtel-ZTIP-w3c/Jtel-ZTIP-w3c.github.io/releases/download/v0.1/tibet-resolve-debug.apk)  ·  🌐 [Open the landing](https://jtel-ztip-w3c.github.io)  ·  📖 [Repo & cookbook](https://github.com/Jtel-ZTIP-w3c/Jtel-ZTIP-w3c.github.io)
+
+*(Android 12+, sideload — your phone will ask to allow install from this source.)*
+
 > Where IAM remembers, ZTIP forgets. No identity database — a short, signed attestation
 > that a *fact* holds ("18 or older"), verified point-of-use, then gone.
 
